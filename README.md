@@ -1,3 +1,6 @@
+<p align="center">
+  <img width= "460" height = "300" src"src/assets/to_readme"/GIF_GITHUB ‐ Feito com o Clipchamp.gif'>
+</p>
 ## About me
 
 - :mortar_board: Curso Ciência de Dados e Inteligência Artificial na PUC-SP (2021-2025)
