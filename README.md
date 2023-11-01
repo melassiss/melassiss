@@ -7,13 +7,17 @@
 
 ## About me
 
-- :mortar_board: Curso Ciência de Dados e Inteligência Artificial na PUC-SP (2021-2025)
+- :mortar_board: Curso Ciência de Dados e Inteligência Artificial na PUC-SP (2021 - 2025)
 - :computer: Estagiária de CX em Cibersegurança
 - :hourglass_flowing_sand: Python, SQL, Power BI, Machine Learning, Banco de Dados e Storytelling
 
+</p>
+
 ## Contato 
 
-<a href = "mailto:melissaassiss@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/melissa-assis" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ <a href="mailto:melissaassiss@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+ <a href="https://www.linkedin.com/in/melissa-assis"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+ <a href="https://www.instagram.com/melassiss"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  
 </div>
 
