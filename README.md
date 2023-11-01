@@ -15,6 +15,11 @@
 
 ## Contato 
 
+</a>  
+<a href="Curriculo 2023- Melissa.pdf">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>  
+
  <a href="mailto:melissaassiss@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
  <a href="https://www.linkedin.com/in/melissa-assis"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
  <a href="https://www.instagram.com/melassiss"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
